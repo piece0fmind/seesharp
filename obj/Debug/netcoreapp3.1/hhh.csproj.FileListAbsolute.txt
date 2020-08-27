@@ -1,0 +1,13 @@
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh.deps.json
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh.runtimeconfig.json
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh.runtimeconfig.dev.json
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh.dll
+/home/gorpgazor/Documents/hhh/bin/Debug/netcoreapp3.1/hhh.pdb
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.csprojAssemblyReference.cache
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.AssemblyInfoInputs.cache
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.AssemblyInfo.cs
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.csproj.CoreCompileInputs.cache
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.dll
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.pdb
+/home/gorpgazor/Documents/hhh/obj/Debug/netcoreapp3.1/hhh.genruntimeconfig.cache
