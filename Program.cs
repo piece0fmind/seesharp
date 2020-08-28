@@ -6,7 +6,7 @@ namespace hhh
     {
        private static void Main(string[] args)
         { //  var name="jonson";
-        //     Console.WriteLine("Hello " + name);
+        //     System.Console.WriteLine("Hello " + name);
 
         Console.WriteLine("What is your name? ");
         var name=Console.ReadLine();
