@@ -1,0 +1,13 @@
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.csprojAssemblyReference.cache
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.AssemblyInfoInputs.cache
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.AssemblyInfo.cs
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.csproj.CoreCompileInputs.cache
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp.deps.json
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp.runtimeconfig.json
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp.runtimeconfig.dev.json
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp.dll
+/home/gorpgazor/Documents/hhh/seesharp/bin/Debug/netcoreapp3.1/seesharp.pdb
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.dll
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.pdb
+/home/gorpgazor/Documents/hhh/seesharp/obj/Debug/netcoreapp3.1/seesharp.genruntimeconfig.cache
